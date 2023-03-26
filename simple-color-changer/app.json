@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "simple-color-changer",
+    "slug": "simple-color-changer"
+  }
+}
